@@ -23,6 +23,11 @@ Here some informations about me :
 
 ## Socials
 
+<a href="https://www.linkedin.com/in/bmnsr7" target="_blank" rel="noreferrer"><img src="./assets/linkdedin.svg" width="32" height="32" alt="Linkedin" /></a>
+/bmnsr7  
+<a href="https://github.com/bahaa-mn" target="_blank" rel="noreferrer"><img src="./assets/github.svg" width="32" height="32" alt="Github" /></a>
+/bahaa-mn
+
 [![linkedin](https://img.shields.io/badge//bmnsr7-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bmnsr7)
 [![github](https://img.shields.io/badge/bahaa--mn-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/bahaa-mn)
 [![linkedin](https://img.shields.io/badge/bahaamn__-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/bahaamn_)
