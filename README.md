@@ -6,7 +6,7 @@ Here some informations about me :
 - 🌍 Based in Paris
 - 🖥️ See my portfolio at [kheapps.com](http://kheapps.com)
 - ✉️ You can contact me at [contact@kheapps.com](mailto:contact@kheapps.com)
-- 🧠 Mainly working with Vue, Nuxt, Firebase
+- 🧠 Mainly working with Vue, Nuxt, Firebase, Supabase
 - 🤝 Always open to learn new technologies
 
 ## Skills
