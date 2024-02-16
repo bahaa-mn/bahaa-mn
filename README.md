@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a fullstack developer.
+I am a [certified Vue.js](https://certificates.dev/c/9b3ce2aa-bc73-4a4c-b294-43cfb1285938) developer. 
 Here some informations about me :
 
 - 🌍 Based in Paris
