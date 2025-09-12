@@ -13,8 +13,6 @@ Here some informations about me :
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="./assets/vue.svg" width="32" height="32" alt="Vue" /></a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="./assets/nuxt.svg" width="32" height="32" alt="Nuxt" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="./assets/react.svg" width="32" height="32" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./assets/next-js.svg" width="32" height="32" alt="Next" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="./assets/flutter.svg" width="32" height="32" alt="Flutter" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./assets/tailwind.svg" width="32" height="32" alt="Tailwind CSS" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/js.svg" width="32" height="32" alt="Javascript" /></a>
